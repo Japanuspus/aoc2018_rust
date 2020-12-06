@@ -1,1 +1,1 @@
-Attempt at Advent of Code 2018 in rust
+Moved to [japanuspus/adventofcode/2028](https://github.com/Japanuspus/adventofcode).
